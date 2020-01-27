@@ -1,1 +1,1 @@
-Add some text to the readme - keep it simple at the moment.
+[![Build Status](https://travis-ci.org/DylanThomson33/sem.svg?branch=master)](https://travis-ci.org/DylanThomson33/sem)
